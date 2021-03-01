@@ -4,7 +4,7 @@ lang: zh-CN
 heroText: Dovis的前端技术博客
 heroAlt: Dovis
 heroImage: /navlogo.jpg
-actionText: 开始前端学习之路 →
+actionText: 开始后端学习之路 →
 actionLink: /basis/JavaScript/
 features:
 - title: 前端基础
